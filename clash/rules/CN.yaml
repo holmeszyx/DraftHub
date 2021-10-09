@@ -129,3 +129,4 @@ payload:
   - DOMAIN-SUFFIX,zoho.com
   - DOMAIN-SUFFIX,umeng.com
   - DOMAIN-SUFFIX,worktile.com
+  - DOMAIN,cn.bing.com
