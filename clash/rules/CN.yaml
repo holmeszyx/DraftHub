@@ -129,5 +129,5 @@ payload:
   - DOMAIN-SUFFIX,zoho.com
   - DOMAIN-SUFFIX,umeng.com
   - DOMAIN-SUFFIX,worktile.com
+  - DOMAIN-SUFFIX,agora.io
   - DOMAIN,cn.bing.com
-  - DOMAIN,agora.io
