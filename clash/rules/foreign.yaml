@@ -280,3 +280,4 @@ payload:
   - DOMAIN-SUFFIX,ying.com
   - DOMAIN-SUFFIX,yoyo.org
   - DOMAIN-SUFFIX,ytimg.com
+  - DOMAIN-SUFFIX,openai.com
