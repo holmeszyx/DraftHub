@@ -106,6 +106,7 @@ payload:
   - DOMAIN-SUFFIX,ghostnoteapp.com
   - DOMAIN-SUFFIX,git.io
   - DOMAIN-KEYWORD,github
+  - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,globalsign.com
   - DOMAIN-SUFFIX,gmodules.com
   - DOMAIN-SUFFIX,godaddy.com
